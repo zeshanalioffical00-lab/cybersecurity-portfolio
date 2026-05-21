@@ -51,9 +51,9 @@ My journey in cybersecurity has led me to develop a passion for protecting digit
 ## 📜 Certifications
 
 | Certification | Status | Link |
-|---------------|--------|------|
-| Google Cybersecurity Professional Certificate | ✅ Completed (2026) | [View Certificate|https://github.com/zeshanalioffical00-lab/cybersecurity-portfolio/blob/1185efa14e70b538fb062f164d26893d28fe88bf/CERTIFICATES/Coursera%20CYPM1F96RGY6.pd)
-| TryHackMe Pre-Security | ✅ Completed | [View Certificate](https://github.com/zeshanalioffical00-lab/cybersecurity-portfolio/blob/main/CERTIFICATES/presecuritycertificate.pdf) |
+## 📜 Certificates
+- [TryHackMe Pre-Security](CERTIFICATES/tryhackme%20presecuritycertificate.pdf)
+- [Coursera Certificate](CERTIFICATES/Coursera%20CYPM1F96RGY6.pdf)
 | TryHackMe Cyber Security 101 | 🔄 In Progress (8/56 rooms) | - |
 | eJPTv2 | 📅 Planned | - |
 
