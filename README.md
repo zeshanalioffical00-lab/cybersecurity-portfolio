@@ -88,7 +88,7 @@ My journey in cybersecurity has led me to develop a passion for protecting digit
 ## 📫 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/zeshan-ali](https://www.linkedin.com/in/zeshan-ali-265aa4403
-- **GitHub:** [github.com/zeshanaliofficial00-lab](https://github.com/zeshanaliofficial00-lab)
+- **GitHub:** [github.com/zeshanaliofficial00-lab](https://github.com/zeshanalioffical00-lab)
 - **TryHackMe:** [zeshanaliofficial00](https://tryhackme.com/p/zeshanaliofficial00)
 
 ---
